@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is demo of landing page in react js
 
-![Alt text](/master/public/home-page.png?raw=true "Optional Title")
+![Alt text](/public/home-page.png?raw=true "Optional Title")
 
 
 ## Available Scripts
