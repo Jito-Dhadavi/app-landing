@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is demo of landing page in react js
+
+![Alt text](/https://github.com/Jito-Dhadavi/app-landing/blob/master/public/home-page.png?raw=true "Optional Title")
+
+
 ## Available Scripts
 
 In the project directory, you can run:
